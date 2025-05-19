@@ -1,10 +1,10 @@
-### Hello! I'm Daniel, welcome to my Github :)
+### Hello! I'm Daniel, welcome to my Github
 
-I'm a fourth year student at UBC interested in all things software!
+I'm a recent UBC Mathematics Graduate seeking a career in Software Development
 
-- I’m currently learning Swift
-- I want to learn more about web frameworks like React and Node
-- Ask me about my next adventure!
+- I’m currently working on a Full-Stack web application
+- I want to learn more about dynamic design and cybersecurity  
+- I'm either programming or riding my bike 
 <!--
 **danielkrg/danielkrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
